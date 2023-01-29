@@ -33,6 +33,7 @@ topscore = Topscore()
 
 
 class Dragon:
+//END
     dragon_velocity = 10
 
     def __init__(self):
